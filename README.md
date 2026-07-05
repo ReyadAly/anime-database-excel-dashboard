@@ -1,6 +1,6 @@
 # anime-database-excel-dashboard
 Comprehensive Excel dashboard analyzing 21460 anime titles: types, ratings, producers, studios, genres, and airing trends.
-# 🎌 Anime Database Excel Dashboard
+# Anime Database Excel Dashboard
 
 **Date:**  13th May, 2026  
 **Tool:** Microsoft Excel (Power Query + Power Pivot + DAX + VBA Macros)  
