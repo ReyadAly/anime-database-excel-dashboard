@@ -49,9 +49,8 @@ Comprehensive Excel dashboard analyzing 21460 anime titles: types, ratings, prod
 | File | Description |
 |---|---|
 | `anime_dashboard.xlsx` | Main Excel dashboard file |
-| `anime_summary.pdf` | Summary report (must be in same folder as .xlsx) |
-| `anime_recommendation.pdf` | Recommendation report (must be in same folder as .xlsx) |
-| `screenshots/` | Dashboard preview images |
+| `Project Excel Summary.pdf` | Summary report (must be in same folder as .xlsx) |
+| `Project Excel Recommendation Letter.pdf` | Recommendation report (must be in same folder as .xlsx) |
 
 > ⚠️ **Important:** The PDF files must be placed in the **same folder** as the 
 > Excel file for the macro-linked buttons to work correctly.
